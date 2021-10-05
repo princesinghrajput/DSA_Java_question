@@ -4,6 +4,7 @@ import java.util.*;
   
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
+      
       int n = scn.nextInt();
       int b = scn.nextInt();
       int d = getValueIndecimal(n, b);
